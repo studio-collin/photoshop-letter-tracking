@@ -22,3 +22,7 @@ letter-spacing:0.154em;
 ````
 
 ###Cheers!
+
+##License
+
+This project is licensed under the MIT license. [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
