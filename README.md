@@ -17,7 +17,7 @@ where `150` is the amount of tracking you have in Photoshop.
 This will output the css
 ````
 h1 {
-letter-spacing:0.154em;
+letter-spacing:0.150em;
 }
 ````
 
