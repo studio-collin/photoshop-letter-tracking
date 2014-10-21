@@ -1,0 +1,3 @@
+@mixin letter-tracking($photoshop-letter-tracking) {
+  letter-spacing: $photoshop-letter-tracking/1000 + em;
+}
